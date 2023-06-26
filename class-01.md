@@ -8,3 +8,5 @@
 6. (-) or (*) or (+)
 # LAB 01
 ## [reading mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+## reply to Lab 01b
+*a*growth*mindset* is the ability to understand that you are learning and growing, so mistakes/failure may happen, but it is how you learn and grow from those failures that sets you up for success. 
