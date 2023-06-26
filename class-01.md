@@ -30,5 +30,5 @@ important tools you can use as an aspiring web developer.
 What does pwd do? pwd: stands for the print working directory- location
 What is Ls? Ls is short for list
 What is cd? Cd is change directory
-mkdr make a new folder
-touch creates a new file
+*mkdr* make a new folder
+*touch* creates a new file
