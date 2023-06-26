@@ -1,2 +1,4 @@
 # 102.code.notes
-## what is markdown?
+## What is markdown?
+[
+](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)https://www.atlassian.com/blog/inside-atlassian/growth-mindset
