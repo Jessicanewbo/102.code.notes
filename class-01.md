@@ -1,4 +1,5 @@
 # Class 01
+# Read 01
 ## reply to Read: 01 
 1. Markdown is the syntax of what you want to do, and documentation.
 2. Use syntax to format our website.
@@ -14,4 +15,15 @@ What are 3 reminders to keep the growth mindset:
 1. Continue to learn from my mistakes
 2. Pushing through the obstacles
 3. Embrace the challenges 
-## Reply to Read: 02
+# Read 02
+## reply to Read: 02
+What is a text editor?
+  A text editor is a piece of software that you download and install on
+your computer, or you access online through your web browser, that
+allows you to write and manage text, especially the text that you write
+to build a website. The text editor has to be one of the most
+important tools you can use as an aspiring web developer.
+1. code completion
+2. syntax highlighting
+3. variety of themes
+4.  the ability to choose from a  selection of extensions available 
