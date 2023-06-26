@@ -14,3 +14,4 @@ What are 3 reminders to keep the growth mindset:
 1. Continue to learn from my mistakes
 2. Pushing through the obstacles
 3. Embrace the challenges 
+## Reply to Read: 02
