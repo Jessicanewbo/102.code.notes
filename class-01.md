@@ -7,6 +7,7 @@
 4. Bold: ** or Italize: * *
 5. enclose in brackets [xx] then the url in (xx)
 6. (-) or (*) or (+)
+7. > dragonfly
 # LAB 01
 ## [reading mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 ## reply to Lab 01b
